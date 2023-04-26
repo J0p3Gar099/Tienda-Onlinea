@@ -93,6 +93,8 @@ function products(arr,name,price){
 products(productList,"Television",200)
 products(productList,"Telefono",300)
 products(productList,"Computadora",600)
+products(productList,"Telefono",300)
+products(productList,"Computadora",600)
 
 
 
