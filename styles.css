@@ -135,7 +135,7 @@ nav {
   position: absolute;
   top: 60px;
   background-color: var(--white);
-  width: 70%;
+  width: 100%;
   left: 0;
 }
 .mobile-menu a {
